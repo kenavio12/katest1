@@ -1,0 +1,38 @@
+{
+  "manga": [
+    {
+      "title": "Manga Title 1",
+      "chapters": [
+        {
+          "chapter_number": "Chapter 1",
+          "pages": [
+            "page1.jpg",
+            "page2.jpg",
+            "page3.jpg"
+          ]
+        },
+        {
+          "chapter_number": "Chapter 2",
+          "pages": [
+            "page1.jpg",
+            "page2.jpg",
+            "page3.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Manga Title 2",
+      "chapters": [
+        {
+          "chapter_number": "Chapter 1",
+          "pages": [
+            "page1.jpg",
+            "page2.jpg",
+            "page3.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
