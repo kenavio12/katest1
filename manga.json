@@ -1,36 +1,39 @@
 {
-  "manga": [
+  "manga_title": "My Awesome Manga",
+  "chapters": [
     {
-      "title": "Manga Title 1",
-      "chapters": [
+      "chapter_number": "Chapter 1",
+      "chapter_title": "The Beginning",
+      "pages": [
         {
-          "chapter_number": "Chapter 1",
-          "pages": [
-            "page1.jpg",
-            "page2.jpg",
-            "page3.jpg"
-          ]
+          "page_number": 1,
+          "image_url": "https://example.com/manga1/chapter1/page1.jpg"
         },
         {
-          "chapter_number": "Chapter 2",
-          "pages": [
-            "page1.jpg",
-            "page2.jpg",
-            "page3.jpg"
-          ]
+          "page_number": 2,
+          "image_url": "https://example.com/manga1/chapter1/page2.jpg"
+        },
+        {
+          "page_number": 3,
+          "image_url": "https://example.com/manga1/chapter1/page3.jpg"
         }
       ]
     },
     {
-      "title": "Manga Title 2",
-      "chapters": [
+      "chapter_number": "Chapter 2",
+      "chapter_title": "The Adventure Continues",
+      "pages": [
         {
-          "chapter_number": "Chapter 1",
-          "pages": [
-            "page1.jpg",
-            "page2.jpg",
-            "page3.jpg"
-          ]
+          "page_number": 1,
+          "image_url": "https://example.com/manga1/chapter2/page1.jpg"
+        },
+        {
+          "page_number": 2,
+          "image_url": "https://example.com/manga1/chapter2/page2.jpg"
+        },
+        {
+          "page_number": 3,
+          "image_url": "https://example.com/manga1/chapter2/page3.jpg"
         }
       ]
     }
